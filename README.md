@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, web designing, music and sports-
 - 🌱 I’m currently Highschool Junior student.
 - 💞️ I’m looking to collaborate on Gen AI, Phython, Java related programming issues or projects
-- 📫 reach me on git hub chat-
+- 📫 pkanneganti85@github.com
 - 😄 Always positive and friendly
 - ⚡ run a runner
 
